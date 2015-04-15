@@ -1,3 +1,4 @@
+[![Code Climate](https://codeclimate.com/github/hprice11/br-frontend-tooling-demo/badges/gpa.svg)](https://codeclimate.com/github/hprice11/br-frontend-tooling-demo)
 This is a static, single page site for use in demoing code and process for the [Build Right: Frontend Tooling workshop](https://github.com/sparkbox/BR-Front-End-Tooling).
 
 It's a fictional app called "Toolcase" — a simple list for developers and designers to showcase the tools they use for given tasks.

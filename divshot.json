@@ -1,6 +1,6 @@
 {
-  "name": "br-demo",
-  "root": "dist",
+  "name": "br-frontend-tooling-demo-hp",
+  "root": "./",
   "clean_urls": true,
   "error_page": "error.html"
 }
